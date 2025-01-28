@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output:"export",
+  basePath: "/Portfolio_next",
+  output: "export",
+  reactStrictMode: true,
   /* config options here */
   images: {
     domains: ['images.unsplash.com'], // Add the domain here

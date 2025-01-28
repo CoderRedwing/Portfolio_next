@@ -11,7 +11,7 @@ const content = [
     content: (
       <div className="h-full w-full bg-gradient-to-br from-blue-500 to-indigo-500 flex items-center justify-center text-white">
         <Image
-          src="/images/Ajitesh.jpeg"
+          src="/Portfolio_next/images/Ajitesh.jpeg"
           width={300}
           height={300}
           className="rounded-full object-cover object-top"
@@ -27,7 +27,7 @@ const content = [
     content: (
       <div className="h-full w-full bg-gradient-to-br from-green-500 to-teal-500 flex items-center justify-center text-white">
         <Image
-          src="/images/book1.png"
+          src="/Portfolio_next/images/book1.png"
           width={300}
           height={300}
           className="object-cover"
@@ -43,7 +43,7 @@ const content = [
     content: (
       <div className="h-full w-full bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center text-white">
         <Image
-          src="/images/book1.png"
+          src="/Portfolio_next/images/book1.png"
           width={300}
           height={300}
           className="object-cover"
@@ -59,7 +59,7 @@ const content = [
     content: (
       <div className="h-full w-full bg-gradient-to-br from-yellow-500 to-orange-500 flex items-center justify-center text-white">
         <Image
-          src="/images/book1.png"
+          src="/Portfolio_next/images/book1.png"
           width={300}
           height={300}
           className="object-cover"
@@ -75,7 +75,7 @@ const content = [
     content: (
       <div className="h-full w-full bg-gradient-to-br from-red-500 to-rose-500 flex items-center justify-center text-white">
         <Image
-          src="/images/book1.png"
+          src="/Portfolio_next/images/book1.png"
           width={300}
           height={300}
           className="object-cover"

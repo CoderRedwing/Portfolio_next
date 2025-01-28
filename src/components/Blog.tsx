@@ -33,7 +33,7 @@ function Blog() {
                         <div key={course.id} className="flex justify-center">
                             <BackgroundGradient className="rounded-[22px] max-w-sm p-4 sm:p-10 bg-white dark:bg-zinc-900">
         <Image
-          src="/images/book1.png"
+          src="/Portfolio_next/images/book1.png"
           alt="jordans"
           height="400"
           width="400"

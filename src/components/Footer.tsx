@@ -7,14 +7,14 @@ const people = [
     name: "Github",
     designation: "Let's Build",
     image:
-      "/images/github.png",
+      "/Portfolio_next/images/github.png",
     },
     {
     id: 2,
     name: "Linkdin",
     designation: "Let's Connect",
     image:
-      "/images/linkedin.png",
+      "/Portfolio_next/images/linkedin.png",
     },
 
     {
@@ -22,7 +22,7 @@ const people = [
     name: "Gmail",
     designation: "Get in Touch",
     image:
-      "/images/gmail.png",
+      "/Portfolio_next/images/gmail.png",
     },
 
     {
@@ -30,7 +30,7 @@ const people = [
     name: "Twitter",
     designation: "Let's Tweet",
     image:
-      "/images/twitter.png",
+      "/Portfolio_next/images/twitter.png",
     },
 ]
 

@@ -3,7 +3,6 @@ import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import TechPeCharcha from "@/components/TechPeCharcha";
 import WhySelectMe from "@/components/WhySelectMe";
-import Image from "next/image";
 
 export default function Home() {
   return (

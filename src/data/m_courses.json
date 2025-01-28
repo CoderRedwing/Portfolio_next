@@ -1,0 +1,76 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Docker Essentials",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of containerization and how to use Docker for deploying applications.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "AWS for Beginners",
+      "slug": "piano-mastery",
+      "description": "Master the art of piano playing with step-by-step lessons from expert instructors.",
+      "price": 129.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "AWS for Beginners",
+      "slug": "drumming-essentials",
+      "description": "Master Amazon Web Services (AWS) and learn how to deploy cloud-based applications.",
+      "price": 89.99,
+      "instructor": "Mike Johnson",
+      "isFeatured": true,
+      "image": "/courses/drums.jpg"
+    },
+    {
+      "id": 4,
+      "title": "AWS for Beginners",
+      "slug": "violin-for-beginners",
+      "description": "A complete beginner's guide to playing the violin with practical exercises.",
+      "price": 109.99,
+      "instructor": "Emily Davis",
+      "isFeatured": false,
+      "image": "/courses/violin.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Next.js Deep Dive",
+      "slug": "singing-techniques",
+      "description": "Learn vocal techniques to enhance your singing voice and performance.",
+      "price": 79.99,
+      "instructor": "Sarah Wilson",
+      "isFeatured": true,
+      "image": "/courses/singing.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Bass Guitar Basics",
+      "slug": "bass-guitar-basics",
+      "description": "Discover the fundamentals of playing bass guitar and build a strong foundation.",
+      "price": 94.99,
+      "instructor": "James Brown",
+      "isFeatured": false,
+      "image": "/courses/bass.jpg"
+    },
+
+    {
+      "id": 7,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": false,
+      "image": "/courses/guitar.jpg"
+    }
+   
+  ]
+}

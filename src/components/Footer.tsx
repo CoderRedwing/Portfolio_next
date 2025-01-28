@@ -1,5 +1,4 @@
 'use client'
-import { WavyBackground } from "./ui/wavy-background";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
 
 const people = [
@@ -40,7 +39,7 @@ const people = [
 function Footer() {
     return (
         <div className="relative h-[32rem] overflow-hidden flex items-center justify-center">
-            <WavyBackground className="w-full max-w-7xl mx-auto flex 
+            <div className="w-full max-w-7xl mx-auto flex 
             flex-col items-center justify-center h-full">
                 <h2 className="text-2xl md:text-4xl lg:text-7xl 
                 text-white font-bold text-center mb-8"
@@ -52,7 +51,7 @@ function Footer() {
 
                 </div>
 
-            </WavyBackground>
+            </div>
 
         </div>
     )

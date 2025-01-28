@@ -109,13 +109,13 @@ export const ProductItem = ({
   );
 };
 
-export const HoveredLink = ({ children, ...rest }: any) => {
+export const HoveredLink = ({ children, ...rest }: React.PropsWithChildren<React.ComponentProps<typeof Link>>) => {
   return (
     <Link
-      {...rest}
+      {...rest}  // this ensures all props passed to HoveredLink are forwarded to Link
       className="text-neutral-700 dark:text-neutral-200 hover:text-black "
     >
-      {children}
+      {children}  
     </Link>
   );
 };
